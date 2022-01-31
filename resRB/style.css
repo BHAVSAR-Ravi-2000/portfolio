@@ -169,7 +169,7 @@ footer {
     display: flex;
     position: fixed;
 	flex-wrap: wrap;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	margin-top: 5%;
 	padding: 10px;
     width: 100%;
